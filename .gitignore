@@ -1,0 +1,31 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rapp.history
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.httr-oauth
+renv/library/
+renv/staging/
+
+# Input data and generated outputs (not tracked; see README "Data availability")
+data/
+results/
+figures/
+figures_raw/
+*.txt
+*.csv
+*.tsv
+*.xlsx
+*.rds
+*.RData
+*.pdf
+*.png
+*.svg
+*.tiff
+!SHA256SUMS.csv
+
+# OS
+.DS_Store
+Thumbs.db

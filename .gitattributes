@@ -1,0 +1,5 @@
+# Store scripts exactly as deposited (keeps SHA-256 checksums valid on every OS)
+*.R   -text
+*.md  text eol=lf
+*.cff text eol=lf
+*.csv -text

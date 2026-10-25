@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated preprint."
+title: "Analysis code for: GSNOR-dependent nitric oxide homeostasis promotes recovery from repeated climate stress across generations in Arabidopsis thaliana"
+type: software
+authors:
+  - family-names: Behl
+    given-names: Rachna
+license: MIT
+repository-code: "https://github.com/rachnabehl-rb/behl-transcriptomic-analysis"
+keywords:
+  - Arabidopsis thaliana
+  - GSNOR
+  - nitric oxide
+  - transgenerational stress memory
+  - RNA-seq
+  - DESeq2
+  - WGCNA
+preferred-citation:
+  type: article
+  title: "GSNOR-dependent nitric oxide homeostasis promotes recovery from repeated climate stress across generations in Arabidopsis thaliana"
+  journal: "bioRxiv"
+  year: 2026
+  doi: "10.64898/2026.08.05.742973"
+  url: "https://www.biorxiv.org/content/10.64898/2026.08.05.742973v1"
+  authors:
+    - family-names: Behl
+      given-names: R.
+    - family-names: Ghirardo
+      given-names: A.
+    - family-names: Winkler
+      given-names: J. B.
+    - family-names: Jafarian
+      given-names: S.
+    - family-names: Frungillo
+      given-names: L.
+    - family-names: Spoel
+      given-names: S. H.
+    - family-names: Fischback
+      given-names: A.
+    - family-names: Huber
+      given-names: G.
+    - family-names: Koller
+      given-names: R.
+    - family-names: Albert
+      given-names: A.
+    - family-names: Mattes
+      given-names: E.
+    - family-names: Gößl
+      given-names: L.
+    - family-names: Mayer
+      given-names: K. F. X.
+    - family-names: Johannes
+      given-names: F.
+    - family-names: Lindermayr
+      given-names: C.
+    - family-names: Schnitzler
+      given-names: J. P.
