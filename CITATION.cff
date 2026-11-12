@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the associated preprint."
+message: "If you use this code, please cite the associated article in Journal of Experimental Botany."
 title: "Analysis code for: GSNOR-dependent nitric oxide homeostasis promotes recovery from repeated climate stress across generations in Arabidopsis thaliana"
 type: software
 authors:
@@ -18,10 +18,10 @@ keywords:
 preferred-citation:
   type: article
   title: "GSNOR-dependent nitric oxide homeostasis promotes recovery from repeated climate stress across generations in Arabidopsis thaliana"
-  journal: "bioRxiv"
+  journal: "Journal of Experimental Botany"
   year: 2026
-  doi: "10.64898/2026.08.05.742973"
-  url: "https://www.biorxiv.org/content/10.64898/2026.08.05.742973v1"
+  doi: "10.1093/jxb/erag557"
+  url: "https://doi.org/10.1093/jxb/erag557"
   authors:
     - family-names: Behl
       given-names: R.
@@ -55,3 +55,14 @@ preferred-citation:
       given-names: C.
     - family-names: Schnitzler
       given-names: J. P.
+references:
+  - type: article
+    title: "GSNOR-dependent nitric oxide homeostasis promotes recovery from repeated climate stress across generations in Arabidopsis thaliana"
+    journal: "bioRxiv"
+    year: 2026
+    doi: "10.64898/2026.08.05.742973"
+    notes: "Preprint"
+    authors:
+      - family-names: Behl
+        given-names: R.
+      - name: "et al."

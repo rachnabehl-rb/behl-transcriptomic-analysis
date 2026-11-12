@@ -1,6 +1,7 @@
 # GSNOR multigenerational climate-stress transcriptomics — analysis code
 
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.08.05.742973-b31b1b)](https://www.biorxiv.org/content/10.64898/2026.08.05.742973v1)
+[![J Exp Bot](https://img.shields.io/badge/J%20Exp%20Bot-10.1093%2Fjxb%2Ferag557-1f6f43)](https://doi.org/10.1093/jxb/erag557)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.08.05.742973-b31b1b)](https://doi.org/10.64898/2026.08.05.742973)
 [![ArrayExpress](https://img.shields.io/badge/ArrayExpress-E--MTAB--17127-0b7fab)](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-17127)
 ![Language: R](https://img.shields.io/badge/language-R-276DC3)
 
@@ -8,7 +9,9 @@ R analysis code for:
 
 > Behl R, Ghirardo A, Winkler JB, Jafarian S, Frungillo L, Spoel SH, Fischback A, Huber G, Koller R, Albert A, Mattes E, Gößl L, Mayer KFX, Johannes F, Lindermayr C, Schnitzler JP.
 > **GSNOR-dependent nitric oxide homeostasis promotes recovery from repeated climate stress across generations in *Arabidopsis thaliana*.**
-> *bioRxiv* (2026). https://doi.org/10.64898/2026.08.05.742973
+> *Journal of Experimental Botany* (2026). https://doi.org/10.1093/jxb/erag557
+
+Preprint: *bioRxiv* (2026), https://doi.org/10.64898/2026.08.05.742973
 
 The scripts analyse RNA-seq from wild-type (WT) and *gsnor* knockout Arabidopsis
 grown over five generations under repeated climate-stress treatments, sampled at
@@ -22,7 +25,7 @@ interaction models, fold-change sensitivity analyses, and the *Pseudomonas* CFU 
 | Data | Where |
 |---|---|
 | Raw RNA-seq reads | ArrayExpress [E-MTAB-17127](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-17127) |
-| Gene-count matrix, sample metadata, phenotype tables, supplementary files, FastQC reports | Zenodo [10.5281/zenodo.20343453](https://doi.org/10.5281/zenodo.20343453) *(currently restricted; will be made public on publication)* |
+| Gene-count matrix, sample metadata, phenotype tables, supplementary files, FastQC reports | Zenodo [10.5281/zenodo.20343453](https://doi.org/10.5281/zenodo.20343453) |
 
 Input data are **not** included in this repository.
 
@@ -115,7 +118,7 @@ v2.2.1 alignment to TAIR10, featureCounts) is described in the paper's Methods.
 
 ## Citation
 
-If you use this code, please cite the paper above. Citation metadata is in
+If you use this code, please cite the *Journal of Experimental Botany* article above. Citation metadata is in
 [`CITATION.cff`](CITATION.cff); GitHub shows it under **Cite this repository**.
 
 ## License
